@@ -1,0 +1,2 @@
+nbinscol = 32
+nbinsnor = 32
